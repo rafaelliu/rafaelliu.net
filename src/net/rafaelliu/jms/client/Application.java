@@ -9,7 +9,7 @@
  * Created on May 8, 2010, 9:26:27 AM
  */
 
-package net.rafaelliu.jmsClient;
+package net.rafaelliu.jms.client;
 
 import java.awt.Font;
 import java.awt.event.ActionEvent;
